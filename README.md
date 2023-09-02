@@ -15,7 +15,7 @@ Description=Sakis3g
 
 [Service]
 Type=oneshot
-ExecStartPre=/opt/check_ethernet3.sh
+ExecStartPre=/opt/check_ethernet.sh
 ExecStart=/bin/sleep 900
 ExecStart=/usr/bin/sakis3g --sudo connect APN="ppbundle.internet" APN_USER="web" APN_PASS="web"
 RemainAfterExit=true
