@@ -8,7 +8,8 @@ If an ethernet connection is present, we just get a log entry in /opt/log/check_
 
 Sakis3g.service file
 
-![image](https://github.com/brainspill3r/check_ethernet.sh/assets/68113403/ac6712da-d6d6-4289-8ef6-3f0be051f026)
+![image](https://github.com/brainspill3r/check_ethernet.sh/assets/68113403/3d30bd2f-924f-4efe-a94f-780297e86c48)
+
 
 [Unit]
 Description=Sakis3g
